@@ -7,3 +7,4 @@ This work focused on exploring possible applications of data sonification. To do
 ### Conents
 * [Reqirements](./Requirements.md)
 * [Resources](./Resources.md)
+* [Notes](./Notes.md)
