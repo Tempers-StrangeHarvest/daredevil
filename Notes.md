@@ -1,3 +1,3 @@
-08.03 Have tried VCV Rack, but probably writing a sound synthesizer is overkill.
+08.03 I have tried VCV Rack, but probably writing a sound synthesizer is overkill.
       Suggestion: Finds libraries that utilize samples/loops. Read the handbook.
-                  Write about vizualisation equivalent of sonification.
+                  Write about the visualization equivalent of sonification.
