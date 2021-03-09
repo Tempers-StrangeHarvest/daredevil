@@ -2,4 +2,4 @@
       Suggestion: Finds libraries that utilize samples/loops. Read the handbook.
                   Write about the visualization equivalent of sonification.
 
-***09.03*** It would be interesting to use samples instead of notes and use some affects/distortions on them like loud numbers do. 
+***09.03*** It would be interesting to use samples instead of notes and use some effects/distortions on them like loud numbers do. 
