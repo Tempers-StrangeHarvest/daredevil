@@ -23,4 +23,4 @@
 * [How to hear electromagnetic waves](https://www.youtube.com/watch?v=IN4GSC36Q30)
 * [Human music](https://www.youtube.com/watch?v=q4k1IK_o59M)
 * [Sonification of Web Tracking and privacy issues](https://www.youtube.com/watch?v=ug3GfEe801k)
-* [https://www.youtube.com/watch?v=70ZGqhzsxxw](Sonified Higgs data show a surprising result)
+* [Sonified Higgs data show a surprising result](https://www.youtube.com/watch?v=70ZGqhzsxxw)
