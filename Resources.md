@@ -15,8 +15,11 @@
 * [Sonic  Pi](https://github.com/sonic-pi-net/sonic-pi)
 * [Two Tone](https://twotone.io/)
 * [CSound API](https://github.com/csound/csoundAPI_examples/tree/master/python)
-* [Collection of libraries](https://wiki.python.org/moin/PythonInMusic)
-* [sonipy](https://github.com/lockepatton/sonipy)
+
+*Might be used:*
+* [pyo](http://ajaxsoundstudio.com/pyodoc/)
+* [pySonic](http://pysonic.sourceforge.net/doc/index.html)
+* [NSound](http://nsound.sourceforge.net/examples/index.html)
 
 ### Fun stuff 
 * [Gilfoyle's Bitcoin Warning - Silicon Valley](https://www.youtube.com/watch?v=uS1KcjkWdoU)
