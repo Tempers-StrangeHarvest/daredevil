@@ -2,4 +2,6 @@
       Suggestion: Finds libraries that utilize samples/loops. Read the handbook.
                   Write about the visualization equivalent of sonification.
 
-***09.03*** It would be interesting to use samples instead of notes and use some effects/distortions on them like loud numbers do. 
+***09.03*** It would be interesting to use samples instead of notes and use some effects/distortions on them as loud numbers do. 
+
+***15.03*** I will be using pyAudio to play sound, wave to read it, and numpy to apply different effects. Find a book on digital sound processing.

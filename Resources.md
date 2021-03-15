@@ -17,9 +17,8 @@
 * [CSound API](https://github.com/csound/csoundAPI_examples/tree/master/python)
 
 *Might be used:*
-* [pyo](http://ajaxsoundstudio.com/pyodoc/)
 * [pySonic](http://pysonic.sourceforge.net/doc/index.html)
-* [NSound](http://nsound.sourceforge.net/examples/index.html)
+* [pyAudio](http://people.csail.mit.edu/hubert/pyaudio/)
 
 ### Fun stuff 
 * [Gilfoyle's Bitcoin Warning - Silicon Valley](https://www.youtube.com/watch?v=uS1KcjkWdoU)
