@@ -1,0 +1,6 @@
+Diploma.code-workspace
+daredevil/test*
+daredevil/venv
+.vscode/settings.json
+paper/Chapters/*aux
+daredevil/__pycache__
