@@ -1,4 +1,4 @@
-<img src="daredevil.png" width="200">
+<img src="docs/images/daredevil.png" width="200">
 
 # Data Sonification: Approaches, applications, and limitations (with implementation in Python)
 
